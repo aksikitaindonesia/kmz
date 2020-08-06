@@ -1,0 +1,2025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Cirebon</name>
+	<visibility>0</visibility>
+	<open>1</open>
+	<LookAt>
+		<longitude>108.5725739</longitude>
+		<latitude>-6.740289833</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>9798.617236</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Style id="path0Style1090">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl029">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin025">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin025</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl690</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin025">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="stylemap_id080">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#style1160</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#style09</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="path0Style01100">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#path0Style1360</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#path0Style1090</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin124">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff00ff00</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="style09">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="style1160">
+		<IconStyle>
+			<scale>0.8</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/homegardenbusiness.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.8</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin127">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin124</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl029</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl690">
+		<IconStyle>
+			<color>ff0000ff</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="s_ylw-pushpin7200">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.7</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin790">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin7200</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1240</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl1240">
+		<IconStyle>
+			<color>ff00ff00</color>
+			<scale>0.827273</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/shapes/square.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0.7</scale>
+		</LabelStyle>
+	</Style>
+	<Style id="path0Style1360">
+		<LineStyle>
+			<color>ff00ffff</color>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Folder>
+		<name>Waypoints</name>
+		<visibility>0</visibility>
+		<Placemark>
+			<name>POP Cirebon</name>
+			<visibility>0</visibility>
+			<description>Latitude: -6.7203067057 Longitude : 108.5503729619</description>
+			<styleUrl>#stylemap_id080</styleUrl>
+			<Point>
+				<coordinates>108.5503729619,-6.720306705699999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Folder>
+			<name>ODP</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>CBN - SP 1.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7118480243 Longitude : 108.5510229785</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5510229785,-6.7118480243,9.568690999999999</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 1.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7119089607 Longitude : 108.5482260212</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5482260212,-6.7119089607,12.558712</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 1.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7115330324 Longitude : 108.5534640402</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5534640402,-6.7115330324,9.235415000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 1.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7109110113 Longitude : 108.5563459899</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5563459899,-6.7109110113,9.027065000000002</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 11.1</name>
+				<visibility>0</visibility>
+				<description>Pasuketan and Benteng and Syarief Abdurahman</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5700173769,-6.7183362041,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 11.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7192847840 Longitude : 108.5683072172</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5683072172,-6.719284784,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 11.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7172007915 Longitude : 108.5682148486</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5682148486,-6.7172007915,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 11.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7150000390 Longitude : 108.5657809954</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5657809954,-6.715000039000001,8.873409000000002</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 12.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7197384965 Longitude : 108.5656823404</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5656823404,-6.7197384965,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 12.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7181020137 Longitude : 108.5647599958</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5647599958,-6.7181020137,10.19125</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 12.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7155649792 Longitude : 108.5630749818</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5630749818,-6.715564979199999,10.101463</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 12.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7130779009 Longitude : 108.5617245734</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5617245734,-6.7130779009,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 13.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7209500168 Longitude : 108.5620890185</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5620890185,-6.7209500168,14.04698</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 13.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7178336252 Longitude : 108.5597375594</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5597375594,-6.717833625200001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 13.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7139116488 Longitude : 108.5586964432</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5586964432,-6.7139116488,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 14.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7200391553 Longitude : 108.5718149599</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5718149599,-6.7200391553,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 14.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7221320327 Longitude : 108.5724499729</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5724499729,-6.7221320327,9.51432</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 14.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7241919693 Longitude : 108.5725760367</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5725760367,-6.7241919693,9.768617000000003</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 14.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7240726948 Longitude : 108.5687317606</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5687317606,-6.7240726948,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 15.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7242254131 Longitude : 108.5670393705</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5670393705,-6.7242254131,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 15.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7244912032 Longitude : 108.5644832253</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5644832253,-6.7244912032,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 15.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7286809813 Longitude : 108.5652660113</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5652660113,-6.7286809813,11.047236</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 16.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7284809891 Longitude : 108.5762000363</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5762000363,-6.728480989100001,9.382142</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 16.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7265099846 Longitude : 108.5753360298</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5753360298,-6.7265099846,9.362728000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 16.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7338159867 Longitude : 108.5735469963</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5735469963,-6.7338159867,9.295765000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 16.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7363459803 Longitude : 108.5748920403</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5748920403,-6.7363459803,9.356707</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 17.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7315449938 Longitude : 108.5777829587</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5777829587,-6.7315449938,9.144094000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 17.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7346830107 Longitude : 108.5797090363</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5797090363,-6.7346830107,9.548260000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 17.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7384400312 Longitude : 108.5818180069</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5818180069,-6.7384400312,9.641072000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 17.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7405370995 Longitude : 108.5782367550</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.578236755,-6.740537099499999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 18.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7413560115 Longitude : 108.5835770331</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5835770331,-6.7413560115,9.656724000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 18.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7440719996 Longitude : 108.5852769669</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5852769669,-6.7440719996,9.431087000000002</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 18.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7485790327 Longitude : 108.5877890233</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5877890233,-6.7485790327,8.767673</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 19.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7286339588 Longitude : 108.5498510208</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5498510208,-6.728633958800001,3.499801</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 19.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7321697809 Longitude : 108.5500781704</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5500781704,-6.7321697809,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 19.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7294319998 Longitude : 108.5461299587</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5461299587,-6.729431999799999,6.064008</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 19.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7303789873 Longitude : 108.5429679696</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5429679696,-6.7303789873,8.622687000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 2.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7098230403 Longitude : 108.5509089846</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5509089846,-6.7098230403,8.675466</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 2.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7056800332 Longitude : 108.5510750301</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5510750301,-6.705680033199999,9.550904000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 2.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7015269678 Longitude : 108.5512129962</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5512129962,-6.7015269678,11.892919</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 2.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7019159719 Longitude : 108.5474320035</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5474320035,-6.701915971900001,11.841313</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 20.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7286549974 Longitude : 108.5533099808</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5533099808,-6.7286549974,2.986467</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 20.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7298889812 Longitude : 108.5557310097</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5557310097,-6.7298889812,3.072383</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 21.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7361238599 Longitude : 108.5461050645</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5461050645,-6.736123859900001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 21.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7369390000 Longitude : 108.5531689972</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5531689972,-6.736939,13.4112</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 21.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7370150238 Longitude : 108.5549669992</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5549669992,-6.7370150238,15.5448</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 22.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7359166592 Longitude : 108.5544166435</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5544166435,-6.735916659200001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 22.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7351979949 Longitude : 108.5572949890</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.557294989,-6.7351979949,13.716</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 22.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7345560249 Longitude : 108.5611509997</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5611509997,-6.7345560249,13.716</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 23.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7346649896 Longitude : 108.5521840397</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5521840397,-6.734664989599999,17.6784</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 23.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7326369882 Longitude : 108.5546879657</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5546879657,-6.732636988199999,17.0688</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 23.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7294940259 Longitude : 108.5574249923</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5574249923,-6.7294940259,16.1544</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 24.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7269770242 Longitude : 108.5590189788</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5590189788,-6.7269770242,13.716</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 24.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7246179376 Longitude : 108.5547648277</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5547648277,-6.7246179376,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 25.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7309605237 Longitude : 108.5407044366</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5407044366,-6.7309605237,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 25.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7314281501 Longitude : 108.5380774643</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5380774643,-6.7314281501,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 25.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7294610012 Longitude : 108.5390469991</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5390469991,-6.7294610012,10.826283</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 25.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7267770320 Longitude : 108.5387340188</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5387340188,-6.726777032000001,11.04933</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 26.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7340351734 Longitude : 108.5409367830</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.540936783,-6.7340351734,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 26.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7371990066 Longitude : 108.5426099785</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5426099785,-6.7371990066,13.275381</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 26.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7352849990 Longitude : 108.5377430264</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5377430264,-6.735284999,16.185289</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 26.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7356180120 Longitude : 108.5346390400</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.53463904,-6.735618012,21.387762</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 27.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7364599742 Longitude : 108.5312199779</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5312199779,-6.7364599742,24.224939</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 27.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7372229788 Longitude : 108.5338509735</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5338509735,-6.7372229788,19.504744</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 27.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7382690404 Longitude : 108.5367770121</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5367770121,-6.7382690404,17.435019</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 28.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7443784419 Longitude : 108.5431118030</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.543111803,-6.7443784419,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 28.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7413710151 Longitude : 108.5461110156</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5461110156,-6.7413710151,20.542585</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 28.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7457476258 Longitude : 108.5394896474</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5394896474,-6.7457476258,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 28.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7472650018 Longitude : 108.5349950194</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5349950194,-6.747265001800001,19.098724</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 29.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7476467136 Longitude : 108.5306788422</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5306788422,-6.7476467136,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 29.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7460933793 Longitude : 108.5283041652</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5283041652,-6.746093379300001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 29.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7444838025 Longitude : 108.5256626923</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5256626923,-6.7444838025,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 29.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7419425771 Longitude : 108.5232192837</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5232192837,-6.7419425771,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 3.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7113870196 Longitude : 108.5440739617</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5440739617,-6.711387019600001,14.110234</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 3.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7109889630 Longitude : 108.5410599969</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5410599969,-6.710988963,15.371154</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 3.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7104080133 Longitude : 108.5367370304</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5367370304,-6.7104080133,15.145882</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 3.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7101070192 Longitude : 108.5338750295</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5338750295,-6.7101070192,15.840316</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 30.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7431169655 Longitude : 108.5403939709</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5403939709,-6.7431169655,19.846428</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 30.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7423500214 Longitude : 108.5370999668</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5370999668,-6.7423500214,22.85272</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 30.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7425604071 Longitude : 108.5348101985</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5348101985,-6.7425604071,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 30.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7418849096 Longitude : 108.5317958146</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5317958146,-6.7418849096,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 31.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7461636197 Longitude : 108.5424961522</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5424961522,-6.7461636197,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 31.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7496369127 Longitude : 108.5409731604</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5409731604,-6.7496369127,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 31.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7528015841 Longitude : 108.5392016452</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5392016452,-6.7528015841,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 31.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7546050344 Longitude : 108.5383929592</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5383929592,-6.754605034400001,39.93994500000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 32.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7415666487 Longitude : 108.5634166282</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5634166282,-6.7415666487,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 32.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7398620211 Longitude : 108.5634580348</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5634580348,-6.7398620211,12.4968</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 32.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7419689801 Longitude : 108.5650469922</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5650469922,-6.7419689801,14.0208</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 32.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7420876678 Longitude : 108.5664143320</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.566414332,-6.742087667800001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 35.1</name>
+				<visibility>0</visibility>
+				<description>Perumnas Ciremai Raya</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5600805469,-6.752575021199999,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 35.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7544745281 Longitude : 108.5589665081</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5589665081,-6.7544745281,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 35.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7571263947 Longitude : 108.5581745021</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5581745021,-6.757126394700001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 35.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7615549732 Longitude : 108.5574900359</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5574900359,-6.7615549732,42.660294</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 36.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7514165584 Longitude : 108.5545505024</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5545505024,-6.7514165584,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 36.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7505052779 Longitude : 108.5529458709</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5529458709,-6.7505052779,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 36.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7521750368 Longitude : 108.5506710224</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5506710224,-6.7521750368,38.252735</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 36.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7547460180 Longitude : 108.5484710243</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5484710243,-6.754746018,39.26549500000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 37.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7574005667 Longitude : 108.5465388279</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5465388279,-6.7574005667,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 37.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7611236405 Longitude : 108.5452108830</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.545210883,-6.7611236405,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 37.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7639790196 Longitude : 108.5466959886</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5466959886,-6.763979019599999,40.778072</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 37.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7678139918 Longitude : 108.5482779890</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.548277989,-6.7678139918,46.95634100000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 38.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7483480275 Longitude : 108.5613769758</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5613769758,-6.7483480275,40.21171200000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 38.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7498870287 Longitude : 108.5640720092</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5640720092,-6.7498870287,39.61263300000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 38.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7471299693 Longitude : 108.5650640074</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5650640074,-6.7471299693,38.035648</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 39.1</name>
+				<visibility>0</visibility>
+				<description>Semeru</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5584746581,-6.7482158449,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 39.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7468559649 Longitude : 108.5629309807</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5629309807,-6.746855964900001,40.74734500000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 39.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7446119618 Longitude : 108.5633509979</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5633509979,-6.7446119618,43.80759</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 4.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7190990411 Longitude : 108.5532030277</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5532030277,-6.719099041100001,9.757242</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 4.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7191690300 Longitude : 108.5565159749</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5565159749,-6.71916903,8.899635000000002</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 4.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7223570030 Longitude : 108.5505649913</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5505649913,-6.722357003,12.609837</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 4.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7262970004 Longitude : 108.5503430385</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5503430385,-6.7262970004,13.282455</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 5.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7190830316 Longitude : 108.5507659893</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5507659893,-6.719083031600001,11.454576</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 5.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7169553693 Longitude : 108.5508393310</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.550839331,-6.7169553693,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 5.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7146530282 Longitude : 108.5534509644</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5534509644,-6.7146530282,9.971550000000001</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 5.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7155700084 Longitude : 108.5553979967</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5553979967,-6.7155700084,12.687838</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 6.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7082080152 Longitude : 108.5642979853</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5642979853,-6.7082080152,15.24</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 6.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7052210402 Longitude : 108.5629410390</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.562941039,-6.7052210402,16.1544</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 6.3</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7020080052 Longitude : 108.5612150375</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5612150375,-6.702008005199999,16.764</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 6.4</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.6995189991 Longitude : 108.5601949599</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5601949599,-6.6995189991,18.288</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 7.1</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.6969429888 Longitude : 108.5587660130</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.558766013,-6.6969429888,19.2024</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - SP 7.2</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.6976640001 Longitude : 108.5561390407</description>
+				<styleUrl>#m_ylw-pushpin025</styleUrl>
+				<Point>
+					<coordinates>108.5561390407,-6.6976640001,21.336</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>ODC</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>CBN - ODC 01</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.712019099 Longitude : 108.5506967</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.550696671,-6.7120190989,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 010</name>
+				<visibility>0</visibility>
+				<description>Collector Road</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5600769427,-6.7525897734,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 01A</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7191177327 Longitude : 108.5507247504</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5507247504,-6.719117732700001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 04</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7286662292 Longitude : 108.5498859733</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5498859733,-6.7286662292,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 05</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7310242262 Longitude : 108.5407517105</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5407517105,-6.7310242262,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 06</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7366219126 Longitude : 108.5500266217</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5500266217,-6.7366219126,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 07</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7394720111 Longitude : 108.5480729677</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5480729677,-6.739472011100001,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 08</name>
+				<visibility>0</visibility>
+				<description>Kalitanjung</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5433365218,-6.7442957964,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 09</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7421311699 Longitude : 108.5631552804</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5631552804,-6.7421311699,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 3</name>
+				<visibility>0</visibility>
+				<description>Balanak</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5653358325,-6.7104885634,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 3B</name>
+				<visibility>0</visibility>
+				<description>Latitude: -6.7315449938 Longitude : 108.5777829587</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5777829587,-6.7315449938,0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CBN - ODC 3A</name>
+				<visibility>0</visibility>
+				<description>Syarief Abdurahman</description>
+				<styleUrl>#m_ylw-pushpin790</styleUrl>
+				<Point>
+					<coordinates>108.5700158682,-6.7183332704,0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+	</Folder>
+	<Folder>
+		<name>Tracks</name>
+		<visibility>0</visibility>
+		<Folder>
+			<name>12 Core</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>12 C ahamad yani</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5631775763,-6.7421370372,0 108.5630023107,-6.7420248035,0 108.5623953771,-6.7419619393,0 108.5624088719,-6.741809221,0 108.5626966227,-6.741764294,0 108.5626966227,-6.7417597678,0 108.5631011333,-6.741822632,0 108.5631056596,-6.741822632,0 108.5632225871,-6.741647534099999,0 108.5633618943,-6.7415935546,0 108.5634518322,-6.7418136634,0 108.5636046343,-6.7418631166,0 108.5636900458,-6.741908043600001,0 108.5650162306,-6.7420113087,0 108.5658748727,-6.742101162700001,0 108.5660951491,-6.7420562357,0 108.566414332,-6.742087667800001,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c Bandara</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5433840472,-6.7442865763,0 108.5434488393,-6.744332341499999,0 108.5431817919,-6.7448120378,0 108.5429822188,-6.745151924,0 108.5428122338,-6.7454780638,0 108.5425749421,-6.7459823191,0 108.5424939729,-6.7461548187,0 108.5423187073,-6.7465268914,0 108.5421568528,-6.746893599599999,0 108.5419302899,-6.7474220786,0 108.5418817587,-6.7475810833,0 108.5417252686,-6.7479127552,0 108.5414071754,-6.7485947907,0 108.5413856339,-6.7488337588,0 108.5409755912,-6.749634565800001,0 108.5404875129,-6.750556491299999,0 108.5402851738,-6.7507720739,0 108.5398698505,-6.7514893133,0 108.5398725327,-6.7514893133,0 108.5391973704,-6.7528076191,0 108.5383792128,-6.7546452675,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 C Elang</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5531517304,-6.7369469628,0 108.5532245692,-6.7370035406,0 108.5537478514,-6.7370979208,0 108.5545273684,-6.736987363499999,0 108.5549508221,-6.737046707399999,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c kanggraksan</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5433947761,-6.7442943715,0 108.5434451513,-6.7443213612,0 108.5442884546,-6.742970952799999,0 108.5451192688,-6.741964789100001,0 108.5451192688,-6.7419585027,0 108.5460695252,-6.7414365616,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c Kesambi</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5500096902,-6.736616380499999,0 108.5501355864,-6.736484281699999,0 108.5502111074,-6.736540943399999,0 108.5505006183,-6.736113298699999,0 108.5511865932,-6.735616503300001,0 108.5520865582,-6.7346104234,0 108.5521557927,-6.734698433399999,0 108.5528921429,-6.733737196800001,0 108.5531618726,-6.7335126456,0 108.5546722915,-6.732614356999999,0 108.555301521,-6.7322550248,0 108.5557780322,-6.731850765600001,0 108.5561465845,-6.7312668823,0 108.5563534498,-6.73102431,0 108.5566231795,-6.7306470405,0 108.5574053787,-6.729524117,0 108.5578638688,-6.7288503796,0 108.5582684632,-6.7283742875,0 108.5587089323,-6.7276915815,0 108.5590155423,-6.7271714844,0 108.5589696933,-6.7271553073,0 108.559010094,-6.7269828916,0 108.5578585044,-6.7262639757,0 108.5577137489,-6.726307980700001,0 108.5556683131,-6.724930833999999,0 108.5554354638,-6.7247925326,0 108.5550137702,-6.724647861,0 108.5547432024,-6.724647861,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c Kesambi Dalam</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5574131738,-6.729525039,0 108.557872586,-6.7288270779,0 108.5582879931,-6.7283742875,0 108.5602578241,-6.729191774499999,0 108.5601823032,-6.7295879032,0 108.5601607617,-6.7300182302,0 108.5601662099,-6.7302850261,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c pangeran drajat</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5500082653,-6.7366043944,0 108.5500892345,-6.7366672587,0 108.550066771,-6.736761555099999,0 108.5503499955,-6.7369600385,0 108.5503913183,-6.7369493097,0 108.551274268,-6.7375853285,0 108.551274268,-6.7375834845,0 108.5517848935,-6.7375565786,0 108.5519433953,-6.737531432899999,0 108.5523434635,-6.7374057043,0 108.5526491515,-6.737230522599999,0 108.5527570266,-6.7371316999,0 108.5528020374,-6.7371721007,0 108.5529997665,-6.7370193824,0 108.5531539097,-6.7369474657,0 108.55312692,-6.7368882056,0 108.5538767651,-6.736289905399999,0 108.5544135422,-6.7359072715,0 108.5552937258,-6.735368398900001,0 108.5557594243,-6.7351545766,0 108.5562689602,-6.735104117499999,0 108.557257019,-6.735248705399999,0 108.5579556506,-6.7352738511,0 108.5583962034,-6.7352424189,0 108.5599504597,-6.734984591600001,0 108.5611273628,-6.7346324679,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c rajawali</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.563162908,-6.7421076167,0 108.5629992932,-6.742007033899999,0 108.5623951256,-6.7419630289,0 108.5624139849,-6.7418246437,0 108.5626846366,-6.741768065799999,0 108.5631063301,-6.7418246437,0 108.5632384289,-6.7416423373,0 108.5633391794,-6.7415920459,0 108.5633580387,-6.741371937100001,0 108.563471362,-6.739881383300001,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c samadikun</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5653349943,-6.710487809,0 108.5651407856,-6.7101284768,0 108.5651048273,-6.7099341843,0 108.5650598165,-6.709788674500001,0 108.5649267957,-6.709567308399999,0 108.5648062639,-6.7093157675,0 108.5646300763,-6.7089923937,0 108.564451877,-6.708541195800001,0 108.564451877,-6.708542956,0 108.5643314291,-6.7082192469,0 108.5642954707,-6.7081169039,0 108.5641137511,-6.707917247000001,0 108.563836813,-6.707201767700001,0 108.5638152715,-6.707142423800001,0 108.5637954902,-6.707038153,0 108.5634787381,-6.706238519399999,0 108.5629257839,-6.7052010074,0 108.5623144079,-6.7040152196,0 108.5618782137,-6.7032651231,0 108.5616399162,-6.702789030999999,0 108.5611949209,-6.701998533699999,0 108.5610330664,-6.7017290555,0 108.5609071702,-6.7013697233,0 108.5608487483,-6.7012753431,0 108.5606374405,-6.7006151006,0 108.5605697986,-6.700534299,0 108.5601966362,-6.699474239699999,0 108.5597875994,-6.6983514,0 108.5597066302,-6.6980549321,0 108.5596436821,-6.697920151100001,0 108.5595493019,-6.697668694,0 108.5593200568,-6.6970039252,0 108.5591671709,-6.6968601756,0 108.5587490816,-6.6969589982,0 108.557971241,-6.6971656121,0 108.5574720986,-6.697286898299999,0 108.5569369141,-6.697444059,0 108.556599794,-6.6975428816,0 108.5563480016,-6.6976057459,0 108.5561187565,-6.6976731364,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 c Sunyaragi</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5500213411,-6.7366331443,0 108.5501328204,-6.7364840303,0 108.5499638412,-6.7363457289,0 108.5498721432,-6.736153448,0 108.5497336742,-6.7361768335,0 108.5495952051,-6.7363169789,0 108.5491868388,-6.7362684477,0 108.5491670575,-6.736304406099999,0 108.5483545158,-6.7361832038,0 108.5471785348,-6.7360780947,0 108.5469924565,-6.7360754125,0 108.5461050645,-6.736123859900001,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 C. BIMA</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5407496151,-6.7310229689,0 108.5407181829,-6.7309285887,0 108.5405068751,-6.7309780419,0 108.5401562601,-6.7308028601,0 108.5398820043,-6.7308388185,0 108.5397157073,-6.731103770399999,0 108.5386053566,-6.7314765975,0 108.5381468665,-6.731633758199999,0 108.5380524024,-6.7313418165,0 108.5379580222,-6.7310633697,0 108.5377961677,-6.7303312104,0 108.5376568604,-6.7298910767,0 108.5390099511,-6.7294775974,0 108.5395313893,-6.7293339316,0 108.5387177579,-6.726795556,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 Core Arya kemuning</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.550714273,-6.7191212531,0 108.5531957354,-6.7191661801,0 108.5564953554,-6.7192469817,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core Bahagia</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5700114258,-6.718341568499999,0 108.5700114258,-6.7183398083,0 108.5698567796,-6.7181349546,0 108.5696373414,-6.717827757800001,0 108.5696355812,-6.717827757800001,0 108.56937306,-6.716913292199999,0 108.5691518616,-6.716970792,0 108.5687273182,-6.7170803435,0 108.5687273182,-6.7170785833,0 108.5682831611,-6.717197187200001,0 108.5682184529,-6.717204311899999,0 108.5682202131,-6.7171216663,0 108.5680116713,-6.716821678,0 108.5673390236,-6.716183899,0 108.5669262148,-6.715784166,0 108.5667212773,-6.7156009376,0 108.5663975682,-6.7154095788,0 108.5658519063,-6.7150489893,0 108.5657746252,-6.7150112707,0 108.5657746252,-6.715016635099999,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core by pass</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5782430414,-6.7405308131,0 108.578847209,-6.7402918451,0 108.5797975492,-6.739927148399999,0 108.5805591289,-6.7395875975,0 108.5815597605,-6.7391472962,0 108.581704516,-6.7390215676,0 108.5817486048,-6.7387197353,0 108.581628995,-6.7385184858,0 108.5818178393,-6.7384493351,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 Core cipto</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.550724918,-6.7190871388,0 108.5506844334,-6.720070755099999,0 108.5506844334,-6.7200663127,0 108.5506395064,-6.720884135,0 108.5505990218,-6.7217285279,0 108.5505675897,-6.7224069592,0 108.5504821781,-6.7241771333,0 108.5504327249,-6.725219590600001,0 108.5504147038,-6.7253767513,0 108.5503877141,-6.7257271148,0 108.5503697768,-6.726338490800001,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core ciremai</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5613711085,-6.748337969200001,0 108.562432006,-6.747349826599999,0 108.562953528,-6.746896198,0 108.5632232577,-6.7466491833,0 108.5632232577,-6.7466446571,0 108.563335659,-6.7463569064,0 108.5633176379,-6.744605088600001,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core Ciremai giri</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5600751825,-6.752575021199999,0 108.560067974,-6.7526217923,0 108.5592084937,-6.7524133343,0 108.5582938604,-6.752222645999999,0 108.557997141,-6.7521687504,0 108.5567971878,-6.751896589999999,0 108.556327885,-6.751823835100001,0 108.555928655,-6.751718726,0 108.5552301072,-6.7516054865,0 108.554895753,-6.7514893133,0 108.554895753,-6.7514866311,0 108.55457481,-6.7514111102,0 108.5546044819,-6.7510527,0 108.5546961799,-6.7509014066,0 108.5547366645,-6.7507693917,0 108.5543590598,-6.7507073656,0 108.5538899247,-6.750664282600001,0 108.5534259863,-6.750605022500001,0 108.5532749444,-6.7505780328,0 108.5529836733,-6.750556491299999,0 108.5529512353,-6.7505106423,0 108.552182531,-6.750532183799999,0 108.55210701,-6.750545678700001,0 108.5521231871,-6.750675095199999,0 108.5519075207,-6.7510417197,0 108.5517699737,-6.751284292,0 108.5517699737,-6.751286974199999,0 108.5511092283,-6.7517670896,0 108.5509555042,-6.7518830113,0 108.5506884567,-6.7521982547,0 108.550529452,-6.752387182799999,0 108.550008852,-6.7530097067,0 108.5490191169,-6.7541044671,0 108.5484689288,-6.754751550000001,0 108.5484230798,-6.754826987200001,0 108.5482990276,-6.7549617682,0 108.5478756577,-6.7554392014,0 108.5477651004,-6.7555821128,0 108.5476221051,-6.7557922471,0 108.5474036727,-6.7561857775,0 108.5472606774,-6.7564422637,0 108.5469882656,-6.7568492051,0 108.5469882656,-6.7568518873,0 108.5467186198,-6.7572455015,0 108.5466377344,-6.757415235,0 108.5465541668,-6.7574071884,0 108.546462385,-6.7576928437,0 108.5462744627,-6.7582243402,0 108.5461926553,-6.758444448899999,0 108.5460478999,-6.758859437000001,0 108.5456324928,-6.7600105237,0 108.5452234559,-6.761148702400001,0 108.5453619249,-6.761349868,0 108.5455318261,-6.761532509700001,0 108.5458087642,-6.7620795127,0 108.5462807491,-6.7629979178,0 108.5463751294,-6.763224313000001,0 108.5467275884,-6.7640166543,0 108.5470863339,-6.7647212371,0 108.5476212669,-6.7656895984,0 108.5479044914,-6.7663314007,0 108.548036674,-6.766689810900001,0 108.5482569505,-6.7673311941,0 108.5482883826,-6.767834275999999,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core GUA Sunyaragi</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5409385432,-6.7340333294,0 108.5411111265,-6.7339992151,0 108.5412550438,-6.734475307200001,0 108.5415679403,-6.7354633659,0 108.5417028889,-6.7359430622,0 108.5420842655,-6.736564664200001,0 108.5424187034,-6.7369994335,0 108.5426003393,-6.737215016,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core kalijaga</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.577792095,-6.7315765098,0 108.57921266,-6.733894189800001,0 108.5797610879,-6.734756520000001,0 108.5804983601,-6.736247660599999,0 108.5814333614,-6.737783812000001,0 108.5818019975,-6.7384663504,0 108.5820717271,-6.7389693484,0 108.5831056349,-6.7407839466,0 108.5831146035,-6.7407839466,0 108.5835821461,-6.7413588613,0 108.5839777719,-6.7420325149,0 108.5852904618,-6.744062528,0 108.5856860038,-6.744691254599999,0 108.58651313,-6.746155573099999,0 108.5868368391,-6.7467662785,0 108.5873402562,-6.7477274314,0 108.5873312876,-6.7477274314,0 108.5877628718,-6.7485719081,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core karanggetas</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5656823404,-6.7197519913,0 108.5653271992,-6.7191411182,0 108.5647247918,-6.7181215435,0 108.5640954785,-6.7171420343,0 108.5632143728,-6.7158523109,0 108.5630435497,-6.7155873589,0 108.5626479238,-6.7149357498,0 108.5622118972,-6.7140284088,0 108.5619646311,-6.7135432642,0 108.5618845839,-6.713363556199999,0 108.5617281776,-6.7130779009,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core kartini</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5506965872,-6.7120190989,0 108.5509888642,-6.7118843179,0 108.5509888642,-6.7118888441,0 108.5512360465,-6.711956234600001,0 108.5522385221,-6.7117450945,0 108.5534342844,-6.7115384806,0 108.5562978778,-6.7109141964,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core Kemuning</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5433453504576,-6.744294557776331,0 108.5432262790773,-6.744346298674672,0 108.5427960567,-6.7444832996,0 108.5422107484,-6.744644986499999,0 108.5414609034,-6.744806673400001,0 108.5411319137,-6.744887558699999,0 108.5404228047,-6.745197773,0 108.5395085067,-6.745868912,0 108.5394248553,-6.7453029659,0 108.5392764956,-6.7443944514,0 108.5394006316,-6.744008883799999,0 108.5403958149,-6.7431541812,0 108.5407922789,-6.7428520974,0 108.540716758,-6.7427659314,0 108.540719524,-6.7427659314,0 108.5406493675,-6.7426419631,0 108.5400073975,-6.7423185054,0 108.5397378355,-6.7422724888,0 108.5395355802,-6.742234770199999,0 108.5381896142,-6.742021869900001,0 108.5372914933,-6.7422886658,0 108.5372941755,-6.7422913481,0 108.5370919202,-6.7423506081,0 108.5364528,-6.7424557172,0 108.5362327751,-6.742356475400001,0 108.5359244049,-6.742306184,0 108.5354524199,-6.7423879914,0 108.5348922573,-6.7425262928,0 108.534734929,-6.742582870600001,0 108.5340803862,-6.7426645942,0 108.5340740997,-6.742658307800001,0 108.5339482035,-6.742796693,0 108.5338475369,-6.742890989400001,0 108.5334384162,-6.7429035623,0 108.5329475719,-6.7428721301,0 108.5329538584,-6.7428721301,0 108.5320601799,-6.7429979425,0 108.5318650492,-6.7422936112,0 108.5319217108,-6.7421930283,0 108.5317958146,-6.7418849096,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core majasem</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.543331076514,-6.744276013881423,0 108.5431188882742,-6.744347007732064,0 108.5426114034,-6.7445335072,0 108.5421834234,-6.74463409,0 108.5414533596,-6.744803907299999,0 108.5410820413,-6.7448856309,0 108.54038978,-6.7451874632,0 108.5403960664,-6.7451874632,0 108.539489815,-6.7458791379,0 108.5389107931,-6.746403677399999,0 108.5384747665,-6.746812379,0 108.5382948909,-6.746951686200001,0 108.5382769536,-6.7470549513,0 108.5380477086,-6.7471448053,0 108.5375261866,-6.7471762374,0 108.534968365,-6.7473155446,0 108.5330489092,-6.7474008724,0 108.5317497142,-6.7474727053,0 108.5312686767,-6.7475131061,0 108.5306483321,-6.7476571072,0 108.5294390749,-6.747966986100001,0 108.5293671582,-6.747845699999999,0 108.5288996156,-6.747131561899999,0 108.5285579693,-6.7466688808,0 108.528418662,-6.7463320121,0 108.5283062607,-6.7461030185,0 108.5281668697,-6.745783668,0 108.5281713959,-6.745783668,0 108.5280724894,-6.745648887000001,0 108.5280005727,-6.7450650036,0 108.5279781092,-6.7447730619,0 108.5278297495,-6.744660744399999,0 108.5276589263,-6.7445978802,0 108.5271015298,-6.7446159013,0 108.5260945279,-6.744476594000001,0 108.525896715,-6.7444317508,0 108.5256630275,-6.744481120299999,0 108.525150558,-6.744463183,0 108.5244448017,-6.744418255999999,0 108.5239862278,-6.744386823800001,0 108.5233478621,-6.7444361933,0 108.5231995024,-6.7444137298,0 108.52307369,-6.744283474999999,0 108.5230556689,-6.7441352829,0 108.5230377316,-6.743438663000001,0 108.52307369,-6.7432230804,0 108.5231995024,-6.742746653,0 108.5232175235,-6.7419426609,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core pantura</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5777430609,-6.7315365281,0 108.5771514662,-6.7300022207,0 108.5769941378,-6.7295432277,0 108.5768242367,-6.7290021759,0 108.5762136988,-6.7284928076,0 108.5759053286,-6.7282348964,0 108.5756221041,-6.7275304813,0 108.5756221041,-6.727524194899999,0 108.5753200203,-6.7265117448,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core Parujakan</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5620796308,-6.7209604941,0 108.5614322964,-6.7211895715,0 108.560829889,-6.719927508399999,0 108.5605287272,-6.719284867900001,0 108.5604028311,-6.719213035,0 108.5597060435,-6.7177842557,0 108.5595082305,-6.7174024601,0 108.5591935739,-6.716737607499999,0 108.5590946674,-6.7165309936,0 108.5591756366,-6.7163015809,0 108.5591037199,-6.7161937896,0 108.5592295323,-6.7157221399,0 108.5591576155,-6.715228110600001,0 108.5590767302,-6.7148281261,0 108.5589373391,-6.7144957837,0 108.5586964432,-6.7139152531,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core pemuda</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5498444829,-6.7286275886,0 108.5490640439,-6.7285647243,0 108.5478997137,-6.7289168481,0 108.5478997137,-6.728910561699999,0 108.5465529095,-6.7293129768,0 108.546559196,-6.7293129768,0 108.5461185593,-6.7294387892,0 108.5429829732,-6.7303997744,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core pemuda - cipto</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.549828222,-6.7286462802,0 108.5498911701,-6.728966971900001,0 108.5503065772,-6.728960685400001,0 108.5501618218,-6.7304195557,0 108.5501365922,-6.7315956205,0 108.5500800144,-6.7321661767,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 CORE Perjuangan</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5407517105,-6.7310242262,0 108.5407165904,-6.730932612,0 108.5405062046,-6.730978461,0 108.540160954,-6.730803279200001,0 108.5398750473,-6.7308409978,0 108.539977558,-6.7311158404,0 108.5401312821,-6.731530912200001,0 108.5401285999,-6.731530912200001,0 108.5402931366,-6.7319328245,0 108.540544007,-6.732725501100001,0 108.5409431532,-6.734033078,0 108.5410672892,-6.734423842300001,0 108.5400638916,-6.7344615608,0 108.5400665738,-6.7344643269,0 108.5398588702,-6.7344670091,0 108.5389687959,-6.7344023008,0 108.5386236291,-6.7344885506,0 108.5377012845,-6.7352462746,0 108.5373480711,-6.7355590034,0 108.5349369328,-6.7355401441,0 108.5346914269,-6.735537461900001,0 108.5338636301,-6.7355347797,0 108.5334213171,-6.7357126437,0 108.5322131496,-6.7356937844,0 108.5313716065,-6.7360036634,0 108.5309616476,-6.7364487424,0 108.530996684,-6.7364783306,0 108.5314633045,-6.7365484033,0 108.5317896958,-6.7365996167,0 108.5320486128,-6.7366292886,0 108.5327660199,-6.7368559353,0 108.533834042,-6.7372871842,0 108.533834042,-6.737284502,0 108.5340953898,-6.737395394599999,0 108.5344109684,-6.737516680700001,0 108.5345647763,-6.7375005037,0 108.5347185005,-6.7375624459,0 108.5352147929,-6.7376756016,0 108.5352579597,-6.7377726641,0 108.5355789028,-6.7379128095,0 108.5356814135,-6.7379693873,0 108.5359133407,-6.7381310742,0 108.5360590182,-6.7381904181,0 108.5360617004,-6.7381931003,0 108.5367603321,-6.7383008916,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core perumnas ciremai</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.560073087,-6.752569824500001,0 108.5600191914,-6.752789011199999,0 108.5599292535,-6.753139374799999,0 108.5596937221,-6.753703476900001,0 108.5596218053,-6.7536980286,0 108.5591884609,-6.754195746,0 108.5590481479,-6.7543709278,0 108.5589726269,-6.7544840835,0 108.5586465709,-6.754964198899999,0 108.5584900808,-6.755643300699999,0 108.558492763,-6.755643300699999,0 108.5582176689,-6.7568757758,0 108.5581691377,-6.7571317591,0 108.558233846,-6.7571749259,0 108.5581394657,-6.7579759005,0 108.558066627,-6.758347805600001,0 108.5579479393,-6.7589626182,0 108.5578967258,-6.7592591699,0 108.5577025171,-6.759566450500001,0 108.557670163,-6.7598929256,0 108.5575891938,-6.7604319658,0 108.557546027,-6.7610145081,0 108.5574624594,-6.761491522200001,0 108.5574759543,-6.7615669593,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core pronggol</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5778071824,-6.7315650266,0 108.5776561406,-6.731690755099999,0 108.5775239579,-6.7314895894,0 108.5775302444,-6.7314895894,0 108.5754659493,-6.732665486599999,0 108.5735023208,-6.733828811,0 108.5738737229,-6.7345770635,0 108.5742323846,-6.735300589400001,0 108.5748995002,-6.7363759037,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 Core Pulasaren</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5700120125,-6.718334863,0 108.570816759,-6.717795906599999,0 108.571027983,-6.7176746204,0 108.5711898375,-6.717755422,0 108.5713247024,-6.717894645400001,0 108.571517989,-6.718128248999999,0 108.5716034006,-6.718536950600001,0 108.5716573801,-6.718766028099999,0 108.571594432,-6.7189097777,0 108.5717382655,-6.7196419369,0 108.5718192346,-6.7200690787,0 108.5718866251,-6.7205586657,0 108.5722462926,-6.7216141988,0 108.5724485479,-6.722171595300001,0 108.5727093089,-6.7228318378,0 108.5730419867,-6.7238137778,0 108.5730464291,-6.7238182202,0 108.5730374604,-6.723993402,0 108.5728980694,-6.7241146881,0 108.572893627,-6.7241192143,0 108.5725609493,-6.7242089845,0 108.5725654755,-6.7242089845,0 108.5722957458,-6.7242764588,0 108.5718147084,-6.724357260400001,0 108.5716349166,-6.724379891500001,0 108.5711943638,-6.7242405843,0 108.5703897011,-6.7239891272,0 108.5698411893,-6.7240070645,0 108.5687353648,-6.724074454999999,0 108.5685160104,-6.7240870278,0 108.5685160104,-6.7240852676,0 108.5677911434,-6.724164309,0 108.5670393705,-6.7242289335,0 108.566710297,-6.724252319,0 108.5665305052,-6.724275704500001,0 108.5657643154,-6.72435835,0 108.5653470643,-6.724401433,0 108.5648597404,-6.72444636,0 108.5646241251,-6.7244661413,0 108.5644622706,-6.724494891199999,0 108.5637537483,-6.7245990783,0 108.5640736856,-6.725384797900001,0 108.5642112326,-6.7257755622,0 108.5642112326,-6.72577288,0 108.5644162539,-6.726443935199999,0 108.5645403061,-6.7267810553,0 108.5646886658,-6.7271720711,0 108.5648235306,-6.727465940600001,0 108.5648909211,-6.7276196647,0 108.5650420468,-6.7280723713,0 108.5652443022,-6.7286900338,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core rinjani ciremai</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5613814183,-6.748345932000001,0 108.5625016596,-6.7495281156,0 108.564112829,-6.7500123382,0 108.5645785276,-6.748603759299999,0 108.564754799,-6.7478743661,0 108.564754799,-6.7478680797,0 108.5648806114,-6.7475411016,0 108.565045232,-6.747130556,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core semeru ciremai</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5613532551,-6.748346853999999,0 108.5610116087,-6.7487151548,0 108.5602024198,-6.7485804576,0 108.5584626719,-6.7481761985,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core sudarsono</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5498355143,-6.7286373954,0 108.550258046,-6.728632952999999,0 108.5502670985,-6.7284577712,0 108.5520652682,-6.7286104895,0 108.5533014312,-6.7286689114,0 108.5539578181,-6.7287137546,0 108.5541195888,-6.7287093122,0 108.5557208676,-6.7299042363,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core tentara pelajar</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5553399101,-6.7156268377,0 108.5534068756,-6.7147464864,0 108.5524808429,-6.7141266447,0 108.5515547264,-6.7137943022,0 108.5509703401,-6.7137134168,0 108.5508894548,-6.7158424202,0 108.55075459,-6.7190762423,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core tuparev</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5506964196,-6.7120210268,0 108.5506901331,-6.7122850567,0 108.5506837629,-6.7122850567,0 108.549525803,-6.7120964639,0 108.5482104309,-6.7119203601,0 108.5462278593,-6.711681392,0 108.5441006161,-6.7114173621,0 108.5415515956,-6.7110525817,0 108.5410355218,-6.710996003800001,0 108.5410292353,-6.7109897174,0 108.539997004,-6.7108638212,0 108.5373851191,-6.710499124599999,0 108.5367053468,-6.7104424629,0 108.5338165238,-6.7101406306,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>12 core wahidin</name>
+				<visibility>0</visibility>
+				<styleUrl>#path0Style01100</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.550696671,-6.7120190989,0 108.5507866088,-6.710860300799999,0 108.5508720204,-6.7098178435,0 108.5509214737,-6.7079039197,0 108.5509214737,-6.707894951100001,0 108.5509843379,-6.7074637022,0 108.5510337912,-6.706052944099999,0 108.5510337912,-6.7060574703,0 108.5510428436,-6.7056936119,0 108.551078802,-6.7045566905,0 108.5511326976,-6.703622443599999,0 108.5511777084,-6.7015512753,0 108.5511866771,-6.7012009956,0 108.5504179727,-6.7011380475,0 108.5499055032,-6.701088678099999,0 108.5493210331,-6.7011380475,0 108.5473926086,-6.7019510921,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>24 Core</name>
+			<visibility>0</visibility>
+			<Placemark>
+				<name>24 Backbone Kanggraksan</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5480852053,-6.7394798063,0 108.5482200701,-6.739531941699999,0 108.5480977781,-6.7397062015,0 108.5478316527,-6.740051452099999,0 108.5477184132,-6.740193357700001,0 108.5471445881,-6.7406949308,0 108.5468298476,-6.7410272732,0 108.5464483034,-6.7412467953,0 108.545892667,-6.7415109091,0 108.5450795386,-6.741924472200001,0 108.5446586832,-6.7424495146,0 108.5442897957,-6.7428918276,0 108.5441585351,-6.743134399899999,0 108.5434462409,-6.7443028372,0 108.5433796886,-6.744283223500001,0 108.5433401261,-6.744293952399999,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 c Backbone Cipto</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5503713693,-6.7202979885,0 108.5504631512,-6.720307040999999,0 108.5504649114,-6.7201488744,0 108.5506447032,-6.7201417498,0 108.5506303702,-6.7206052691,0 108.5505944118,-6.7213549465,0 108.5505530052,-6.7223327793,0 108.5505027138,-6.723355706800001,0 108.5504631512,-6.7241629679,0 108.5504109319,-6.7251788545,0 108.5503857862,-6.725363927,0 108.5503587965,-6.726011093699999,0 108.550337255,-6.7265254911,0 108.5503066611,-6.727553783000001,0 108.5502527654,-6.7281846888,0 108.5502509214,-6.7281846888,0 108.5502578784,-6.7284633871,0 108.5502507538,-6.7286448553,0 108.5498910863,-6.7286628764,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 c Backbone Cipto 2</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5498917568,-6.728671426,0 108.5499223508,-6.728957165,0 108.5502801742,-6.7289373837,0 108.5502478201,-6.7293146532,0 108.5501417052,-6.7303646542,0 108.5501111113,-6.7315061856,0 108.5500680283,-6.732117477799999,0 108.5500680283,-6.7321156338,0 108.5500068404,-6.7331097275,0 108.5499421321,-6.7344419472,0 108.549881028,-6.736070718600001,0 108.5498719756,-6.736157136,0 108.5499636736,-6.7363530211,0 108.5501669347,-6.7365272809,0 108.5500302259,-6.7366244271,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 c Backbone kesambi Raya</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5500262026,-6.7366198171,0 108.5500728898,-6.736680921200001,0 108.5500441398,-6.736756358300001,0 108.5498858895,-6.736998930600001,0 108.5494198557,-6.7376950476,0 108.5491555743,-6.7380740773,0 108.5487038735,-6.7387213279,0 108.5485959984,-6.7388506606,0 108.5485600401,-6.738924337599999,0 108.5484089982,-6.739125587000001,0 108.5480880551,-6.739481315,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 C Backbone Pemuda</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5498964507,-6.728675114,0 108.5496672057,-6.7286482081,0 108.5490693245,-6.7286166921,0 108.5482421145,-6.7288727593,0 108.5463806614,-6.7294072732,0 108.5462098382,-6.729461168899999,0 108.5430175904,-6.7304447852,0 108.5407606792,-6.7310242262,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 c fedeer ahmad yani</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5480658431,-6.7394515593,0 108.5486574378,-6.7396087199,0 108.5511434264,-6.740067796799999,0 108.5531006847,-6.7404513527,0 108.5542521905,-6.7406463996,0 108.555970313,-6.7409482319,0 108.5560835525,-6.7412060592,0 108.5567255225,-6.741331871599999,0 108.5600480251,-6.7417470273,0 108.5623325966,-6.7419859953,0 108.5629871394,-6.742061432499999,0 108.5631507542,-6.7421117239,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 c Fedeer Ciremai Raya</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5631381813,-6.7421160825,0 108.5631921608,-6.742354128500001,0 108.5632235929,-6.742538278899999,0 108.5633539315,-6.7425607424,0 108.5633270256,-6.7442001589,0 108.5633674264,-6.745668919800001,0 108.563362984,-6.7456643935,0 108.563362984,-6.746221371,0 108.5633764789,-6.746387584099999,0 108.5632550251,-6.7466705572,0 108.5628145561,-6.747056795299999,0 108.5620457679,-6.747748469900001,0 108.5614927299,-6.7482964788,0 108.5613533389,-6.7484177649,0 108.5610206611,-6.7487636022,0 108.5608723015,-6.7491633352,0 108.560652025,-6.7500886135,0 108.560607098,-6.750322133299999,0 108.56030141,-6.7517549358,0 108.5601394717,-6.7525768653,0 108.560085576,-6.7525768653,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 c Veteran</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5653631575,-6.7104835343,0 108.5656400956,-6.7109866161,0 108.5657721944,-6.7113198806,0 108.5656337254,-6.7114268336,0 108.5652561206,-6.7106156331,0 108.5651428811,-6.7104018107,0 108.5645701457,-6.7099868227,0 108.5637331288,-6.7096220423,0 108.5629778355,-6.7094334494,0 108.5626884084,-6.709389444400001,0 108.5601332691,-6.710062259800001,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 Cipto Feeder</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5503777396,-6.720309052599999,0 108.5504928231,-6.7203108966,0 108.5504856147,-6.7201473657,0 108.5506446194,-6.720143845299999,0 108.5506742913,-6.7191844527,0 108.5507228225,-6.7177620437,0 108.550776802,-6.716738361900001,0 108.5508118384,-6.7157686595,0 108.5508819949,-6.7142951209,0 108.5509116668,-6.713748537,0 108.5507498123,-6.713716182899999,0 108.5507741198,-6.7129805032,0 108.5507066455,-6.7120216973,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 CORE BENTENG</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5700221546,-6.7183276545,0 108.5696400236,-6.717815604099999,0 108.5693792626,-6.7169128731,0 108.5692894086,-6.7165713105,0 108.5690735746,-6.7161490303,0 108.5683632921,-6.7153987661,0 108.568255417,-6.7152505741,0 108.5679542553,-6.714994339299999,0 108.5672260355,-6.7139384709,0 108.56668205,-6.713170185699999,0 108.5664932895,-6.7128603067,0 108.5661336221,-6.7121146526,0 108.5659762938,-6.7118044384,0 108.5658234917,-6.711813407000001,0 108.5656391736,-6.7114136741,0 108.5657830071,-6.7113238201,0 108.5653433762,-6.710507003599999,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 core cipto</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5506964196,-6.712032258499999,0 108.5507143568,-6.712701553500001,0 108.5507323779,-6.7136851698,0 108.5509481281,-6.7137347907,0 108.5509032011,-6.714498549700001,0 108.5508223157,-6.7164081149,0 108.550714273,-6.7191212531,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 core ciremai</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5600765236,-6.7525778711,0 108.5603283159,-6.7514370102,0 108.5607778374,-6.7493708711,0 108.5609666817,-6.7487331759,0 108.5613802448,-6.7483378854,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 Core Kesunean</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5700130183,-6.7183324322,0 108.5704912897,-6.7180216312,0 108.5708239675,-6.7177970801,0 108.5710200202,-6.7176892888,0 108.571187323,-6.7177557573,0 108.5714516044,-6.7180539854,0 108.5715487506,-6.7181779537,0 108.5715738963,-6.7184007447,0 108.5716531053,-6.7187636811,0 108.5715992097,-6.718918159600001,0 108.5716945119,-6.7193924077,0 108.571788054,-6.7198757082,0 108.5718240123,-6.7200301867,0 108.5718689393,-6.720358924900001,0 108.5719103459,-6.720574507499999,0 108.5722681694,-6.7216291185,0 108.5724607017,-6.7221770436,0 108.5727609415,-6.7229567282,0 108.5727609415,-6.722954884200001,0 108.573043244,-6.7237992771,0 108.5731619317,-6.7238046415,0 108.5731763486,-6.7238783184,0 108.5734982137,-6.7239196412,0 108.5737896524,-6.723950235199999,0 108.5740234237,-6.724095745000001,0 108.5740251839,-6.7240975052,0 108.5742518306,-6.724510733,0 108.5745377373,-6.724931085499999,0 108.5747896973,-6.7253407091,0 108.5749497078,-6.7256191559,0 108.5751007497,-6.7261006124,0 108.575289594,-6.726549798599999,0 108.5755521152,-6.727404920400001,0 108.5756744072,-6.727730054399999,0 108.5758865532,-6.7282510735,0 108.576593399,-6.7288421653,0 108.5767985042,-6.729009216700001,0 108.5769459419,-6.7294619232,0 108.5770394839,-6.7297314014,0 108.5772498697,-6.7303134408,0 108.5776022449,-6.7312189378,0 108.5777335055,-6.7315548845,0 108.5777694639,-6.7315566447,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+			<Placemark>
+				<name>24 core pasuketan</name>
+				<visibility>0</visibility>
+				<styleUrl>#m_ylw-pushpin127</styleUrl>
+				<MultiGeometry>
+					<LineString>
+						<coordinates>
+							108.5700192209,-6.718346932900001,0 108.5699778143,-6.7183846515,0 108.5694491677,-6.718801483500001,0 108.5692459904,-6.7189254519,0 108.5692693759,-6.719020670299999,0 108.5692423861,-6.7191230971,0 108.5686398949,-6.7192739714,0 108.5683431756,-6.7193422839,0 108.5683108214,-6.7192991171,0 108.5681525711,-6.719322502599999,0 108.5678576957,-6.7193800025,0 108.5674961004,-6.7194482312,0 108.5670859739,-6.7195291165,0 108.5667641088,-6.7195794079,0 108.5663181078,-6.7196602095,0 108.5660717636,-6.719696167900001,0 108.56577144,-6.7197536677,0 108.5656174645,-6.7197788972,0 108.5639092326,-6.7203673068,0 108.5620751046,-6.7209695466,0 
+						</coordinates>
+					</LineString>
+				</MultiGeometry>
+			</Placemark>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
